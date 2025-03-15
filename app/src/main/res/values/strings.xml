@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UXTuAlarma</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="trabajo">Trabajo</string>
+    <string name="universidad">Universidad</string>
+    <string name="iglesia">Iglesia</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="alarmas">Alarmas</string>
+    <string name="mas">Más</string>
+    <string name="ver_video_tutorial">Ver video tutorial</string>
+    <string name="acerca_de_la_app">Acerca de la app</string>
+</resources>
