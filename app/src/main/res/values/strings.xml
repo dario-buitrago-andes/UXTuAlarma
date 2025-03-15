@@ -9,4 +9,14 @@
     <string name="mas">Más</string>
     <string name="ver_video_tutorial">Ver video tutorial</string>
     <string name="acerca_de_la_app">Acerca de la app</string>
+    <string name="usuario">Usuario:</string>
+    <string name="juan_reyes">Juan Reyes</string>
+    <string name="edad">Edad:</string>
+    <string name="_32_anios">32 años</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="juan_reyes_mymail_com">juan.reyes@mymail.com</string>
+    <string name="hora_inicio">Hora Inicio:</string>
+    <string name="_8_00_am">8:00 AM</string>
+    <string name="hora_final">Hora Final:</string>
+    <string name="_6_00_p_m">6:00 P.M.</string>
 </resources>
